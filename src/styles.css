@@ -1246,8 +1246,10 @@ img {
 
 @media (max-width: 620px) {
   .hero-photo {
-    background-size: cover;
-    background-position: 68% center;
+    background-image: url("/mobile.png");
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
   }
 
   .site-header {
