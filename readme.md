@@ -21,35 +21,35 @@ A modern, responsive web application for **Rasheeda Bibi Family Care Clinic**, f
 ### 1. Home Section & Hero Banner
 The landing hero section introduces Dr. Ayesha Khalid Rao with clean visual hierarchy and prominent call-to-action buttons for instant booking.
 
-![Home Page Screenshot](./Screenshot%202026-09-12%20161144.jpg)
+![Home Page Screenshot](./assets/Screenshot-1.jpg)
 
 ---
 
 ### 2. Services & Ultrasound Booking
 Highlights specialized care options with interactive CTA links for direct booking services via WhatsApp.
 
-![Services Section Screenshot](./Screenshot%202026-09-12%20161155.jpg)
+![Services Section Screenshot](./assets/Screenshot-2.jpg)
 
 ---
 
 ### 3. About & Doctor Credentials
 Displays Dr. Ayesha Khalid Rao's medical background, qualifications, and primary practice information at Nishtar Hospital Multan.
 
-![About Section Screenshot](./Screenshot%202026-09-12%20161206.png)
+![About Section Screenshot](./assets/Screenshot-3.png)
 
 ---
 
 ### 4. Contact Details & Consultation Hours
 Provides patients with clinic contact numbers, operational hours (7:00 PM - 9:00 PM, Mon–Sat), and quick-start chat options.
 
-![Contact Section Screenshot](./Screenshot%202026-09-12%20161225.png)
+![Contact Section Screenshot](./assets/Screenshot-4.png)
 
 ---
 
 ### 5. WhatsApp Pre-filled Messaging Flow
 Redirects appointment requests straight into WhatsApp with pre-formulated templates for seamless communication.
 
-![WhatsApp Integration Screenshot](./image_636547.png)
+![WhatsApp Integration Screenshot](./assets/Screenshot-5.png)
 
 ---
 
